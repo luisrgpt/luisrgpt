@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there! Thanks for reading this 👋
+
+My name is Luís, and I'm currently working and learning on backend applications, integrated with DevOps tools to optimize productivity and quality of software.
+
+For any DevOps or GitOps tasks, you may find me here, and I'll gladly do my best in finding the most suitable way to automatize what was before a monkey's job :computer: :monkey:
 
 <!--
 **luisrgpt/luisrgpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
